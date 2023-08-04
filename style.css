@@ -82,6 +82,12 @@ body {
   position: relative;
   margin-top: 30px;
 }
+.person-card .plus{
+  margin-top: 65px;
+}
+.person-card .plus-card-kader{
+  margin-top: 103px;
+}
 .person-card .title-badan {
   color: #000;
   text-align: center;
